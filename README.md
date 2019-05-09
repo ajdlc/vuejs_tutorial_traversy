@@ -1,8 +1,8 @@
-# Project Title
+# VueJS Crash Course Repo
 
 The repository where I will be storing my Traversy Media VueJS Crash Course 2019 Project Files
 
-## Getting Started
+## Information
 
 Following the tutorial:
 ```
